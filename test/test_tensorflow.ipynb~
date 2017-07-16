@@ -1,5 +1,4 @@
 {
-  print "Test Pie"
  "cells": [
   {
    "cell_type": "code",
